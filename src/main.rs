@@ -1,4 +1,3 @@
-#![allow(clippy::needless_return)]
 use std::{
     collections::HashMap,
     fmt::Display,
